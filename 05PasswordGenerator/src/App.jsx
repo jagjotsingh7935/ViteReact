@@ -47,7 +47,7 @@ function App() {
         <h1 className='text-2xl font-bold text-white text-center my-5'>Password Generator</h1>
 
 
-        <div className='flex shadow rounded-lg overflow-hidden mb-4 text-black'>
+        <div className=''>
           <input 
          
             type="text"
